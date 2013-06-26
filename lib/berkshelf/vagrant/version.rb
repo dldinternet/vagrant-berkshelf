@@ -1,5 +1,5 @@
 module Berkshelf
   module Vagrant
-    VERSION = "1.3.2dldi"
+    VERSION = "1.3.3dldi"
   end
 end
